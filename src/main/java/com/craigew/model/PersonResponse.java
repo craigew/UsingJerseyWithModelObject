@@ -2,7 +2,7 @@ package com.craigew.model;
 
 
 public class PersonResponse {
-    String response;
+    private String response;
 
     public PersonResponse(){}
 

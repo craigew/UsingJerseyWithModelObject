@@ -1,8 +1,8 @@
 package com.craigew.model;
 
 public class Person {
-     String name;
-     String surname;
+     private String name;
+     private String surname;
 
     public Person() {
     }
